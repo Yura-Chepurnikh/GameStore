@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "8Xgc6cCvpRJwr+s0wnC3x9PL1Ahr/bfRjTFiLv+5uyg=",
+  "Source": "GameStore",
+  "BasePath": "_content/GameStore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "GameStore\\wwwroot",
+      "Source": "GameStore",
+      "ContentRoot": "D:\\Game Store\\GameStore\\GameStore\\wwwroot\\",
+      "BasePath": "_content/GameStore",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Game Store\\GameStore\\GameStore\\wwwroot\\JS\\index.js",
+      "SourceId": "GameStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Game Store\\GameStore\\GameStore\\wwwroot\\",
+      "BasePath": "_content/GameStore",
+      "RelativePath": "JS/index.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\JS\\index.js"
+    },
+    {
+      "Identity": "D:\\Game Store\\GameStore\\GameStore\\wwwroot\\MyCss\\style.css",
+      "SourceId": "GameStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Game Store\\GameStore\\GameStore\\wwwroot\\",
+      "BasePath": "_content/GameStore",
+      "RelativePath": "MyCss/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MyCss\\style.css"
+    }
+  ]
+}
